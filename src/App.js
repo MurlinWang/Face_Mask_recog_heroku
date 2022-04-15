@@ -108,6 +108,9 @@ function App() {
         <h1>Results</h1>
         <p>{outputFileData}</p>
       </div>
+      <div >
+        <h1>Link to technical report:https://docs.google.com/presentation/d/1EAWl7srn7f2A3q733YfR3M82LRuMTVlHzFYf2qGea0U/edit?usp=sharing</h1>
+      </div>
     </div>
   );
 }
