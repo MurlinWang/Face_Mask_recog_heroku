@@ -109,7 +109,8 @@ function App() {
         <p>{outputFileData}</p>
       </div>
       <div >
-        <h1>Link to technical report:https://docs.google.com/presentation/d/1EAWl7srn7f2A3q733YfR3M82LRuMTVlHzFYf2qGea0U/edit?usp=sharing</h1>
+        <h1>Link to technical report</h1>
+          <a href="https://docs.google.com/presentation/d/1EAWl7srn7f2A3q733YfR3M82LRuMTVlHzFYf2qGea0U/edit?usp=sharing" target="_blank">Report</a>
       </div>
     </div>
   );
